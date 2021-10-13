@@ -1,0 +1,35 @@
+.footer
+{
+	background-color: #010412 ;
+	.container
+	{
+		.prefooter
+		{
+			.accounts
+			{
+				.title
+				{
+					font-size: 30px ;
+					font-weight: bold ;
+				}
+				.urls
+				{
+					a
+					{
+						font-size: 20px ;
+						text-decoration: none;
+						color: #F08080 ;
+					}
+				}
+			}
+		}
+		.last
+		{
+			.owner, .year, .fab
+        	{
+				font-weight: bolder;
+            	color: #F08080 ;
+        	}
+        }
+	}
+}

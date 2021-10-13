@@ -1,0 +1,14 @@
+.footer {
+  background-color: #010412; }
+  .footer .container .prefooter .accounts .title {
+    font-size: 30px;
+    font-weight: bold; }
+  .footer .container .prefooter .accounts .urls a {
+    font-size: 20px;
+    text-decoration: none;
+    color: #F08080; }
+  .footer .container .last .owner, .footer .container .last .year, .footer .container .last .fab {
+    font-weight: bolder;
+    color: #F08080; }
+
+/*# sourceMappingURL=Footer.css.map */
