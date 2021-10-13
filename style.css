@@ -1,0 +1,9 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #010206; }
+  body:before {
+    content: "";
+    display: block;
+    height: 30px; }
+
+/*# sourceMappingURL=style.css.map */
